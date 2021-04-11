@@ -42,7 +42,7 @@ The purpose of this election audit analysis is to provide data to the election c
 
    -	Raymon Anthony Doane: 11,606 total votes, 3.1% of total votes
 
-7.	Winning candidate
+7. Winning candidate
 
    -	Diana DeGette
 
