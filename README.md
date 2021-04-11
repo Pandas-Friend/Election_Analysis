@@ -4,7 +4,7 @@ The purpose of this election audit analysis is to provide data to the election c
 ## Results
 •	Total votes
 
-  o	369,711
+  -	369,711
 
 •	Counties
 
