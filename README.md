@@ -1,54 +1,54 @@
 # Election Analysis
 ## Overview
 The purpose of this election audit analysis is to provide data to the election commission regarding voter turnout for each county, percentage of votes for each county out of the total count, and the county with the highest turnout.
-## Results
-•	Total votes
+## Result
+-Total votes
 
   -	369,711
 
-•	Counties
+-	Counties
 
-  o	Jefferson
+  -	Jefferson
 
-  o	Denver
+  -	Denver
 
-  o	Arapahoe
+  -	Arapahoe
 
-•	Number of votes and percentage of overall votes for each county
+-	Number of votes and percentage of overall votes for each county
 
-  o	Jefferson: 38,855 votes, 10.5% of total votes
+  -	Jefferson: 38,855 votes, 10.5% of total votes
 
-  o	Denver: 306,055 votes, 82.8% of total votes
+  -	Denver: 306,055 votes, 82.8% of total votes
 
-  o	Arapahoe: 24,801 votes, 6.7% of total votes
+  -	Arapahoe: 24,801 votes, 6.7% of total votes
 
-•	County with the largest number of votes
+-	County with the largest number of votes
 
-  o	Denver
+  -	Denver
 
-•	Candidates
+-	Candidates
 
-  o	Charles Casper Stockham
+  -	Charles Casper Stockham
 
-  o	Diana DeGette
+  -	Diana DeGette
 
-  o	Raymon Anthony Doane
+  -	Raymon Anthony Doane
 
-•	Number of votes and percentage of overall votes for each candidate
+-	Number of votes and percentage of overall votes for each candidate
 
-  o	Charles Casper Stockham: 85,213 total votes, 23.0% of total votes
+  -	Charles Casper Stockham: 85,213 total votes, 23.0% of total votes
 
-  o	Diana DeGette: 272,892 total votes, 73.8% of total votes
+  -	Diana DeGette: 272,892 total votes, 73.8% of total votes
 
-  o	Raymon Anthony Doane: 11,606 total votes, 3.1% of total votes
+  -	Raymon Anthony Doane: 11,606 total votes, 3.1% of total votes
 
-•	Winning candidate
+-	Winning candidate
 
-  o	Diana DeGette
+  -	Diana DeGette
 
-  o	Total Votes: 272,892
+  -	Total Votes: 272,892
 
-  o	Percentage of total votes: 73.8%
+  -	Percentage of total votes: 73.8%
 
 ![Election_Results](analysis/Election_Results.png)
 
