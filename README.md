@@ -2,16 +2,19 @@
 ## Overview
 The purpose of this election audit analysis is to provide data to the election commission regarding voter turnout for each county, percentage of votes for each county out of the total count, and the county with the highest turnout.
 ## Result
-* Total votes
+1. Total votes
 
   -	369,711
 
-*	Counties
+2.	Counties
+
   -	Jefferson
+  
   -	Denver
+  
   -	Arapahoe
 
-*	Number of votes and percentage of overall votes for each county
+3.	Number of votes and percentage of overall votes for each county
 
   -	Jefferson: 38,855 votes, 10.5% of total votes
 
@@ -19,11 +22,11 @@ The purpose of this election audit analysis is to provide data to the election c
 
   -	Arapahoe: 24,801 votes, 6.7% of total votes
 
-*	County with the largest number of votes
+4.	County with the largest number of votes
 
   -	Denver
 
-*	Candidates
+5.	Candidates
 
   -	Charles Casper Stockham
 
@@ -31,7 +34,7 @@ The purpose of this election audit analysis is to provide data to the election c
 
   -	Raymon Anthony Doane
 
-*	Number of votes and percentage of overall votes for each candidate
+6.	Number of votes and percentage of overall votes for each candidate
 
   -	Charles Casper Stockham: 85,213 total votes, 23.0% of total votes
 
@@ -39,7 +42,7 @@ The purpose of this election audit analysis is to provide data to the election c
 
   -	Raymon Anthony Doane: 11,606 total votes, 3.1% of total votes
 
-*	Winning candidate
+7.	Winning candidate
 
   -	Diana DeGette
 
