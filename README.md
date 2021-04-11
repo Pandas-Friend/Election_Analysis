@@ -7,11 +7,8 @@ The purpose of this election audit analysis is to provide data to the election c
   -	369,711
 
 *	Counties
-
   -	Jefferson
-
   -	Denver
-
   -	Arapahoe
 
 *	Number of votes and percentage of overall votes for each county
