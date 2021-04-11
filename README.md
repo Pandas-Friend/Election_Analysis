@@ -50,6 +50,8 @@ o	Total Votes: 272,892
 
 o	Percentage of total votes: 73.8%
 
+![election_analysis](analysis/election_analysis.png)
+
 ## Summary
 This script can be used for an election of any kind. If you wanted to use this for the presidential election all you would have to do is change the counties to the states. You could also use this to track votes on local propositions; instead of candidates you would have “in favor of” or “against”.
 
